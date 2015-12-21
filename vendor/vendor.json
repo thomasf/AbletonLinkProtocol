@@ -1,0 +1,21 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "5215b55f46b2b919f50a1df0eaa5886afe4e3b3d",
+			"revisionTime": "2015-11-05T15:09:06-06:00"
+		},
+		{
+			"path": "golang.org/x/net/icmp",
+			"revision": "68a055e15f0ce90989da5564fd947fb72ce67513",
+			"revisionTime": "2015-12-17T21:40:13+01:00"
+		},
+		{
+			"path": "golang.org/x/net/internal/nettest",
+			"revision": "68a055e15f0ce90989da5564fd947fb72ce67513",
+			"revisionTime": "2015-12-17T21:40:13+01:00"
+		}
+	]
+}
